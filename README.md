@@ -1,4 +1,4 @@
-# NY-Yellow-taxi-trip-analysis-
+# Analysis of NYC Yellow Taxi Trip Data
 
 The present research explores 2019 - December NYC Yellow Taxi Trip Data for patterns that could make a significant difference in the community transportation strategies. Using data preprocessing and exploratory data analysis, the study identifies areas without bus services where people are depending on taxis for travel and recommends introducing bus routes in those zones to enhance public transportation. We map hotspots of taxi trips against bus route coverage to identify key gaps in current transit systems. The insights to be gained from this study form the backbone of actionable recommendations through which the optimization of taxi dispatches and routes can not only be highly efficient themselves but also contribute towards better public transit accessibility that may help alleviate urban traffic congestion. The aim here is to further assist in consolidating the more integrated and sustainable pattern of urban mobility in New York City, aiming at much closer harmony among the independent taxi operators with the more general community transportation needs.
 
